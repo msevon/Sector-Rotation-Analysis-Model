@@ -60,5 +60,7 @@ Run the main R script to perform the analysis:
 Rscript model.r
 
 4. The program will download historical stock price data, calculate moving averages, evaluate different allocation strategies, and visualize sector rotation.
+
 5. The results and visualizations will be displayed in the R graphics window or saved to files depending on your R environment configuration.
+
 6. Explore the generated plots and analysis to gain insights into sector rotation strategies based on historical data.
